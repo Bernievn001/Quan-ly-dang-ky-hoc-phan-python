@@ -1,0 +1,38 @@
+[
+    {
+        "ma_nd": "admin",
+        "mat_khau": "Huit@123",
+        "ho_ten": "Quản Trị Viên",
+        "vai_tro": "admin",
+        "trang_thai": "hoat_dong",
+        "khoa_den": ""
+    },
+    {
+        "ma_nd": "SV01",
+        "mat_khau": "SV01@123",
+        "ho_ten": "Hứa Quốc Đông",
+        "vai_tro": "sinh_vien",
+        "nganh": "CNTT",
+        "lop": "DHTI16A",
+        "da_dong_hoc_phi": true,
+        "gpa": 3.2,
+        "canh_bao_hoc_vu": 0,
+        "trang_thai": "hoat_dong",
+        "khoa_den": "",
+        "so_thu_tu_tao": 1
+    },
+    {
+        "ma_nd": "SV02",
+        "mat_khau": "SV02@123",
+        "so_thu_tu_tao": 2,
+        "ho_ten": "TDKN",
+        "vai_tro": "sinh_vien",
+        "nganh": "CNTT",
+        "lop": "DHTI16C",
+        "da_dong_hoc_phi": true,
+        "gpa": 3.0,
+        "canh_bao_hoc_vu": 0,
+        "trang_thai": "hoat_dong",
+        "khoa_den": ""
+    }
+]

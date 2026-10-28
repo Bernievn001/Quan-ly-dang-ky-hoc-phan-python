@@ -1,0 +1,22 @@
+[
+    {
+        "ma_nd": "SV01",
+        "mon": "Mạng máy tính",
+        "ngay": "2026-10-15",
+        "gio": "18:50",
+        "tiet_thi": 14,
+        "phong": "A205",
+        "ghi_chu": "Di thi nha friend",
+        "id": "d6a62d5dee"
+    },
+    {
+        "id": "4d40d5c428",
+        "ma_nd": "SV02",
+        "mon": "Khởi nghiệp và đổi mới sáng tạo",
+        "ngay": "2026-10-28",
+        "gio": "14:10",
+        "tiet_thi": 9,
+        "phong": "LAB02",
+        "ghi_chu": "di dung gio nha friend"
+    }
+]

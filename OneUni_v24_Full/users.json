@@ -1,0 +1,38 @@
+[
+    {
+        "ma_nd": "admin",
+        "ho_ten": "Quản Trị Viên",
+        "vai_tro": "admin",
+        "trang_thai": "hoat_dong",
+        "khoa_den": "",
+        "mat_khau_hash": "pbkdf2$120000$3ee8f600a1b01049$3dc1337a5875854896e3d67a8e6e6cddf3d6fc050947919b88dd55b24a61f7a2"
+    },
+    {
+        "ma_nd": "SV01",
+        "ho_ten": "Hứa Quốc Đông",
+        "vai_tro": "sinh_vien",
+        "nganh": "CNTT",
+        "lop": "DHTI16A",
+        "da_dong_hoc_phi": true,
+        "gpa": 3.2,
+        "canh_bao_hoc_vu": 0,
+        "trang_thai": "hoat_dong",
+        "khoa_den": "",
+        "so_thu_tu_tao": 1,
+        "mat_khau_hash": "pbkdf2$120000$6e49e4ebee0c405d$80b616dda878963ee702ba0c87e5984b03f061eda26d8ebb43f541372b3961ca"
+    },
+    {
+        "ma_nd": "SV02",
+        "so_thu_tu_tao": 2,
+        "ho_ten": "TDKN",
+        "vai_tro": "sinh_vien",
+        "nganh": "CNTT",
+        "lop": "DHTI16C",
+        "da_dong_hoc_phi": true,
+        "gpa": 3.0,
+        "canh_bao_hoc_vu": 0,
+        "trang_thai": "hoat_dong",
+        "khoa_den": "",
+        "mat_khau_hash": "pbkdf2$120000$36c950185cc0d46a$e0a3b740ba31d2cc0d43d9233d2e0d6770f842d62a0676df16175c46828c6882"
+    }
+]

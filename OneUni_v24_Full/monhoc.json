@@ -1,0 +1,1652 @@
+[
+    {
+        "ma_mh": "INT101",
+        "ten_mh": "Lập trình Python",
+        "so_tin_chi": 3,
+        "tien_quyet": ""
+    },
+    {
+        "ma_mh": "INT102",
+        "ten_mh": "Cơ sở dữ liệu",
+        "so_tin_chi": 3,
+        "tien_quyet": "INT101"
+    },
+    {
+        "ma_mh": "CNTT101",
+        "ten_mh": "Lập trình C cơ bản",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT102",
+        "ten_mh": "Lập trình hướng đối tượng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT103",
+        "ten_mh": "Cấu trúc dữ liệu và giải thuật",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT106",
+        "ten_mh": "Lập trình Java",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT107",
+        "ten_mh": "Lập trình C#",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT108",
+        "ten_mh": "Phát triển ứng dụng Web",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT109",
+        "ten_mh": "Phát triển ứng dụng di động",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT110",
+        "ten_mh": "Công nghệ phần mềm",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT111",
+        "ten_mh": "Phân tích và thiết kế hệ thống",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT112",
+        "ten_mh": "Mạng máy tính",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT113",
+        "ten_mh": "Hệ điều hành",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT114",
+        "ten_mh": "An toàn thông tin",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT115",
+        "ten_mh": "Trí tuệ nhân tạo",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT116",
+        "ten_mh": "Học máy",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT117",
+        "ten_mh": "Khai phá dữ liệu",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT118",
+        "ten_mh": "Điện toán đám mây",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT119",
+        "ten_mh": "Kiểm thử phần mềm",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "CNTT120",
+        "ten_mh": "Đồ án chuyên ngành Công nghệ thông tin",
+        "so_tin_chi": 4,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thông tin"
+    },
+    {
+        "ma_mh": "QTKD101",
+        "ten_mh": "Nguyên lý quản trị",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Quản trị kinh doanh"
+    },
+    {
+        "ma_mh": "QTKD102",
+        "ten_mh": "Quản trị học",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Quản trị kinh doanh"
+    },
+    {
+        "ma_mh": "QTKD103",
+        "ten_mh": "Quản trị chiến lược",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Quản trị kinh doanh"
+    },
+    {
+        "ma_mh": "QTKD104",
+        "ten_mh": "Quản trị nhân lực",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Quản trị kinh doanh"
+    },
+    {
+        "ma_mh": "QTKD105",
+        "ten_mh": "Quản trị sản xuất",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Quản trị kinh doanh"
+    },
+    {
+        "ma_mh": "QTKD106",
+        "ten_mh": "Quản trị chất lượng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Quản trị kinh doanh"
+    },
+    {
+        "ma_mh": "QTKD107",
+        "ten_mh": "Hành vi tổ chức",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Quản trị kinh doanh"
+    },
+    {
+        "ma_mh": "QTKD108",
+        "ten_mh": "Khởi nghiệp và đổi mới sáng tạo",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Quản trị kinh doanh"
+    },
+    {
+        "ma_mh": "QTKD109",
+        "ten_mh": "Kỹ năng lãnh đạo",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Quản trị kinh doanh"
+    },
+    {
+        "ma_mh": "QTKD110",
+        "ten_mh": "Quản trị dự án",
+        "so_tin_chi": 4,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Quản trị kinh doanh"
+    },
+    {
+        "ma_mh": "QTKD111",
+        "ten_mh": "Văn hóa doanh nghiệp",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Quản trị kinh doanh"
+    },
+    {
+        "ma_mh": "QTKD112",
+        "ten_mh": "Đạo đức kinh doanh",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Quản trị kinh doanh"
+    },
+    {
+        "ma_mh": "MKT101",
+        "ten_mh": "Nguyên lý marketing",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Marketing"
+    },
+    {
+        "ma_mh": "MKT102",
+        "ten_mh": "Marketing căn bản",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Marketing"
+    },
+    {
+        "ma_mh": "MKT103",
+        "ten_mh": "Marketing dịch vụ",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Marketing"
+    },
+    {
+        "ma_mh": "MKT104",
+        "ten_mh": "Marketing số",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Marketing"
+    },
+    {
+        "ma_mh": "MKT105",
+        "ten_mh": "Truyền thông marketing tích hợp",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Marketing"
+    },
+    {
+        "ma_mh": "MKT106",
+        "ten_mh": "Nghiên cứu marketing",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Marketing"
+    },
+    {
+        "ma_mh": "MKT107",
+        "ten_mh": "Hành vi người tiêu dùng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Marketing"
+    },
+    {
+        "ma_mh": "MKT108",
+        "ten_mh": "Quản trị thương hiệu",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Marketing"
+    },
+    {
+        "ma_mh": "MKT109",
+        "ten_mh": "Quảng cáo và sáng tạo nội dung",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Marketing"
+    },
+    {
+        "ma_mh": "MKT110",
+        "ten_mh": "Quan hệ công chúng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Marketing"
+    },
+    {
+        "ma_mh": "MKT111",
+        "ten_mh": "Thương mại điện tử",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Marketing"
+    },
+    {
+        "ma_mh": "MKT112",
+        "ten_mh": "Marketing mạng xã hội",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Marketing"
+    },
+    {
+        "ma_mh": "KT101",
+        "ten_mh": "Nguyên lý kế toán",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kế toán - Kiểm toán"
+    },
+    {
+        "ma_mh": "KT102",
+        "ten_mh": "Kế toán tài chính 1",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kế toán - Kiểm toán"
+    },
+    {
+        "ma_mh": "KT103",
+        "ten_mh": "Kế toán tài chính 2",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kế toán - Kiểm toán"
+    },
+    {
+        "ma_mh": "KT104",
+        "ten_mh": "Kế toán quản trị",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kế toán - Kiểm toán"
+    },
+    {
+        "ma_mh": "KT105",
+        "ten_mh": "Kế toán chi phí",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kế toán - Kiểm toán"
+    },
+    {
+        "ma_mh": "KT106",
+        "ten_mh": "Kế toán thuế",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kế toán - Kiểm toán"
+    },
+    {
+        "ma_mh": "KT107",
+        "ten_mh": "Kế toán doanh nghiệp",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kế toán - Kiểm toán"
+    },
+    {
+        "ma_mh": "KT108",
+        "ten_mh": "Kiểm toán căn bản",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kế toán - Kiểm toán"
+    },
+    {
+        "ma_mh": "KT109",
+        "ten_mh": "Kiểm toán báo cáo tài chính",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kế toán - Kiểm toán"
+    },
+    {
+        "ma_mh": "KT110",
+        "ten_mh": "Phân tích báo cáo tài chính",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kế toán - Kiểm toán"
+    },
+    {
+        "ma_mh": "KT111",
+        "ten_mh": "Hệ thống thông tin kế toán",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kế toán - Kiểm toán"
+    },
+    {
+        "ma_mh": "KT112",
+        "ten_mh": "Thực hành phần mềm kế toán",
+        "so_tin_chi": 2,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kế toán - Kiểm toán"
+    },
+    {
+        "ma_mh": "TCNH101",
+        "ten_mh": "Tài chính tiền tệ",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Tài chính - Ngân hàng"
+    },
+    {
+        "ma_mh": "TCNH102",
+        "ten_mh": "Tài chính doanh nghiệp",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Tài chính - Ngân hàng"
+    },
+    {
+        "ma_mh": "TCNH103",
+        "ten_mh": "Thị trường tài chính",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Tài chính - Ngân hàng"
+    },
+    {
+        "ma_mh": "TCNH104",
+        "ten_mh": "Nghiệp vụ ngân hàng thương mại",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Tài chính - Ngân hàng"
+    },
+    {
+        "ma_mh": "TCNH105",
+        "ten_mh": "Tín dụng ngân hàng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Tài chính - Ngân hàng"
+    },
+    {
+        "ma_mh": "TCNH106",
+        "ten_mh": "Thanh toán quốc tế",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Tài chính - Ngân hàng"
+    },
+    {
+        "ma_mh": "TCNH107",
+        "ten_mh": "Đầu tư tài chính",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Tài chính - Ngân hàng"
+    },
+    {
+        "ma_mh": "TCNH108",
+        "ten_mh": "Phân tích đầu tư chứng khoán",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Tài chính - Ngân hàng"
+    },
+    {
+        "ma_mh": "TCNH109",
+        "ten_mh": "Quản trị rủi ro tài chính",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Tài chính - Ngân hàng"
+    },
+    {
+        "ma_mh": "TCNH110",
+        "ten_mh": "Tài chính quốc tế",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Tài chính - Ngân hàng"
+    },
+    {
+        "ma_mh": "TCNH111",
+        "ten_mh": "Thẩm định dự án đầu tư",
+        "so_tin_chi": 4,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Tài chính - Ngân hàng"
+    },
+    {
+        "ma_mh": "TCNH112",
+        "ten_mh": "Fintech căn bản",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Tài chính - Ngân hàng"
+    },
+    {
+        "ma_mh": "LOG101",
+        "ten_mh": "Nhập môn logistics",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Logistics và quản lý chuỗi cung ứng"
+    },
+    {
+        "ma_mh": "LOG102",
+        "ten_mh": "Quản trị chuỗi cung ứng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Logistics và quản lý chuỗi cung ứng"
+    },
+    {
+        "ma_mh": "LOG103",
+        "ten_mh": "Quản trị vận tải",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Logistics và quản lý chuỗi cung ứng"
+    },
+    {
+        "ma_mh": "LOG104",
+        "ten_mh": "Quản trị kho hàng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Logistics và quản lý chuỗi cung ứng"
+    },
+    {
+        "ma_mh": "LOG105",
+        "ten_mh": "Giao nhận vận tải quốc tế",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Logistics và quản lý chuỗi cung ứng"
+    },
+    {
+        "ma_mh": "LOG106",
+        "ten_mh": "Nghiệp vụ xuất nhập khẩu",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Logistics và quản lý chuỗi cung ứng"
+    },
+    {
+        "ma_mh": "LOG108",
+        "ten_mh": "Khai báo hải quan",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Logistics và quản lý chuỗi cung ứng"
+    },
+    {
+        "ma_mh": "LOG109",
+        "ten_mh": "Quản trị mua hàng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Logistics và quản lý chuỗi cung ứng"
+    },
+    {
+        "ma_mh": "LOG110",
+        "ten_mh": "Logistics cảng biển",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Logistics và quản lý chuỗi cung ứng"
+    },
+    {
+        "ma_mh": "LOG111",
+        "ten_mh": "Thương mại quốc tế",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Logistics và quản lý chuỗi cung ứng"
+    },
+    {
+        "ma_mh": "LOG112",
+        "ten_mh": "Thực hành chứng từ xuất nhập khẩu",
+        "so_tin_chi": 2,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Logistics và quản lý chuỗi cung ứng"
+    },
+    {
+        "ma_mh": "CNTP101",
+        "ten_mh": "Hóa học thực phẩm",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thực phẩm"
+    },
+    {
+        "ma_mh": "CNTP102",
+        "ten_mh": "Vi sinh vật thực phẩm",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thực phẩm"
+    },
+    {
+        "ma_mh": "CNTP103",
+        "ten_mh": "Sinh hóa thực phẩm",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thực phẩm"
+    },
+    {
+        "ma_mh": "CNTP104",
+        "ten_mh": "Dinh dưỡng học",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thực phẩm"
+    },
+    {
+        "ma_mh": "CNTP105",
+        "ten_mh": "Phân tích thực phẩm",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thực phẩm"
+    },
+    {
+        "ma_mh": "CNTP106",
+        "ten_mh": "Công nghệ chế biến rau quả",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thực phẩm"
+    },
+    {
+        "ma_mh": "CNTP107",
+        "ten_mh": "Công nghệ chế biến thịt và thủy sản",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thực phẩm"
+    },
+    {
+        "ma_mh": "CNTP108",
+        "ten_mh": "Công nghệ sữa và sản phẩm sữa",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thực phẩm"
+    },
+    {
+        "ma_mh": "CNTP109",
+        "ten_mh": "Công nghệ đồ uống",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thực phẩm"
+    },
+    {
+        "ma_mh": "CNTP110",
+        "ten_mh": "An toàn vệ sinh thực phẩm",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thực phẩm"
+    },
+    {
+        "ma_mh": "CNTP111",
+        "ten_mh": "Quản lý chất lượng thực phẩm",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thực phẩm"
+    },
+    {
+        "ma_mh": "CNTP112",
+        "ten_mh": "Bao bì thực phẩm",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thực phẩm"
+    },
+    {
+        "ma_mh": "CNTP113",
+        "ten_mh": "Phụ gia thực phẩm",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thực phẩm"
+    },
+    {
+        "ma_mh": "CNTP114",
+        "ten_mh": "Đánh giá cảm quan thực phẩm",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thực phẩm"
+    },
+    {
+        "ma_mh": "CNTP115",
+        "ten_mh": "Thực hành phân tích thực phẩm",
+        "so_tin_chi": 2,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ thực phẩm"
+    },
+    {
+        "ma_mh": "CNHH101",
+        "ten_mh": "Hóa đại cương",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ hóa học"
+    },
+    {
+        "ma_mh": "CNHH102",
+        "ten_mh": "Hóa hữu cơ",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ hóa học"
+    },
+    {
+        "ma_mh": "CNHH103",
+        "ten_mh": "Hóa vô cơ",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ hóa học"
+    },
+    {
+        "ma_mh": "CNHH104",
+        "ten_mh": "Hóa lý",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ hóa học"
+    },
+    {
+        "ma_mh": "CNHH105",
+        "ten_mh": "Hóa phân tích",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ hóa học"
+    },
+    {
+        "ma_mh": "CNHH106",
+        "ten_mh": "Hóa học xanh",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ hóa học"
+    },
+    {
+        "ma_mh": "CNHH107",
+        "ten_mh": "Quá trình và thiết bị",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ hóa học"
+    },
+    {
+        "ma_mh": "CNHH108",
+        "ten_mh": "Kỹ thuật phản ứng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ hóa học"
+    },
+    {
+        "ma_mh": "CNHH109",
+        "ten_mh": "Công nghệ polymer",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ hóa học"
+    },
+    {
+        "ma_mh": "CNHH110",
+        "ten_mh": "Công nghệ hóa mỹ phẩm",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ hóa học"
+    },
+    {
+        "ma_mh": "CNHH111",
+        "ten_mh": "Phân tích công cụ",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ hóa học"
+    },
+    {
+        "ma_mh": "CNHH112",
+        "ten_mh": "An toàn hóa chất",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ hóa học"
+    },
+    {
+        "ma_mh": "DIEN101",
+        "ten_mh": "Mạch điện",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Điện - Điện tử"
+    },
+    {
+        "ma_mh": "DIEN102",
+        "ten_mh": "Điện tử cơ bản",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Điện - Điện tử"
+    },
+    {
+        "ma_mh": "DIEN103",
+        "ten_mh": "Kỹ thuật số",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Điện - Điện tử"
+    },
+    {
+        "ma_mh": "DIEN104",
+        "ten_mh": "Đo lường điện và cảm biến",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Điện - Điện tử"
+    },
+    {
+        "ma_mh": "DIEN105",
+        "ten_mh": "Máy điện",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Điện - Điện tử"
+    },
+    {
+        "ma_mh": "DIEN106",
+        "ten_mh": "Điện tử công suất",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Điện - Điện tử"
+    },
+    {
+        "ma_mh": "DIEN107",
+        "ten_mh": "Hệ thống cung cấp điện",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Điện - Điện tử"
+    },
+    {
+        "ma_mh": "DIEN108",
+        "ten_mh": "Điều khiển tự động",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Điện - Điện tử"
+    },
+    {
+        "ma_mh": "DIEN109",
+        "ten_mh": "PLC và ứng dụng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Điện - Điện tử"
+    },
+    {
+        "ma_mh": "DIEN110",
+        "ten_mh": "Vi điều khiển",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Điện - Điện tử"
+    },
+    {
+        "ma_mh": "DIEN111",
+        "ten_mh": "Điện công nghiệp",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Điện - Điện tử"
+    },
+    {
+        "ma_mh": "DIEN112",
+        "ten_mh": "Thực hành điện tử",
+        "so_tin_chi": 2,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Điện - Điện tử"
+    },
+    {
+        "ma_mh": "OTO101",
+        "ten_mh": "Cơ sở kỹ thuật ô tô",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ kỹ thuật ô tô"
+    },
+    {
+        "ma_mh": "OTO102",
+        "ten_mh": "Kết cấu động cơ đốt trong",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ kỹ thuật ô tô"
+    },
+    {
+        "ma_mh": "OTO103",
+        "ten_mh": "Hệ thống truyền lực ô tô",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ kỹ thuật ô tô"
+    },
+    {
+        "ma_mh": "OTO104",
+        "ten_mh": "Hệ thống điện và điện tử ô tô",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ kỹ thuật ô tô"
+    },
+    {
+        "ma_mh": "OTO105",
+        "ten_mh": "Hệ thống điều khiển động cơ",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ kỹ thuật ô tô"
+    },
+    {
+        "ma_mh": "OTO106",
+        "ten_mh": "Chẩn đoán kỹ thuật ô tô",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ kỹ thuật ô tô"
+    },
+    {
+        "ma_mh": "OTO107",
+        "ten_mh": "Bảo dưỡng và sửa chữa ô tô",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ kỹ thuật ô tô"
+    },
+    {
+        "ma_mh": "OTO108",
+        "ten_mh": "Khung gầm ô tô",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ kỹ thuật ô tô"
+    },
+    {
+        "ma_mh": "OTO109",
+        "ten_mh": "Công nghệ sửa chữa thân vỏ",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ kỹ thuật ô tô"
+    },
+    {
+        "ma_mh": "OTO110",
+        "ten_mh": "Ô tô hybrid và ô tô điện",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ kỹ thuật ô tô"
+    },
+    {
+        "ma_mh": "OTO111",
+        "ten_mh": "Thực hành động cơ ô tô",
+        "so_tin_chi": 2,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ kỹ thuật ô tô"
+    },
+    {
+        "ma_mh": "OTO112",
+        "ten_mh": "Thực tập xưởng ô tô",
+        "so_tin_chi": 2,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ kỹ thuật ô tô"
+    },
+    {
+        "ma_mh": "MAY101",
+        "ten_mh": "Vật liệu dệt may",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ may - thời trang"
+    },
+    {
+        "ma_mh": "MAY102",
+        "ten_mh": "Cơ sở thiết kế trang phục",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ may - thời trang"
+    },
+    {
+        "ma_mh": "MAY103",
+        "ten_mh": "Thiết kế thời trang",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ may - thời trang"
+    },
+    {
+        "ma_mh": "MAY104",
+        "ten_mh": "Thiết kế rập căn bản",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ may - thời trang"
+    },
+    {
+        "ma_mh": "MAY105",
+        "ten_mh": "Thiết kế rập trên máy tính",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ may - thời trang"
+    },
+    {
+        "ma_mh": "MAY106",
+        "ten_mh": "Công nghệ may",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ may - thời trang"
+    },
+    {
+        "ma_mh": "MAY107",
+        "ten_mh": "Quản lý chất lượng may",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ may - thời trang"
+    },
+    {
+        "ma_mh": "MAY108",
+        "ten_mh": "Quản lý sản xuất may",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ may - thời trang"
+    },
+    {
+        "ma_mh": "MAY109",
+        "ten_mh": "Kỹ thuật chuyền may",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ may - thời trang"
+    },
+    {
+        "ma_mh": "MAY110",
+        "ten_mh": "Mỹ thuật trang phục",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ may - thời trang"
+    },
+    {
+        "ma_mh": "MAY111",
+        "ten_mh": "Phát triển mẫu thời trang",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ may - thời trang"
+    },
+    {
+        "ma_mh": "MAY112",
+        "ten_mh": "Thực hành thiết kế trang phục",
+        "so_tin_chi": 2,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Công nghệ may - thời trang"
+    },
+    {
+        "ma_mh": "DL101",
+        "ten_mh": "Tổng quan du lịch",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Du lịch - Nhà hàng - Khách sạn"
+    },
+    {
+        "ma_mh": "DL102",
+        "ten_mh": "Quản trị khách sạn",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Du lịch - Nhà hàng - Khách sạn"
+    },
+    {
+        "ma_mh": "DL103",
+        "ten_mh": "Quản trị nhà hàng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Du lịch - Nhà hàng - Khách sạn"
+    },
+    {
+        "ma_mh": "DL104",
+        "ten_mh": "Nghiệp vụ lễ tân",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Du lịch - Nhà hàng - Khách sạn"
+    },
+    {
+        "ma_mh": "DL105",
+        "ten_mh": "Nghiệp vụ buồng phòng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Du lịch - Nhà hàng - Khách sạn"
+    },
+    {
+        "ma_mh": "DL106",
+        "ten_mh": "Nghiệp vụ phục vụ nhà hàng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Du lịch - Nhà hàng - Khách sạn"
+    },
+    {
+        "ma_mh": "DL107",
+        "ten_mh": "Quản trị sự kiện",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Du lịch - Nhà hàng - Khách sạn"
+    },
+    {
+        "ma_mh": "DL108",
+        "ten_mh": "Thiết kế và điều hành tour",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Du lịch - Nhà hàng - Khách sạn"
+    },
+    {
+        "ma_mh": "DL109",
+        "ten_mh": "Marketing du lịch",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Du lịch - Nhà hàng - Khách sạn"
+    },
+    {
+        "ma_mh": "DL110",
+        "ten_mh": "Văn hóa ẩm thực",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Du lịch - Nhà hàng - Khách sạn"
+    },
+    {
+        "ma_mh": "DL111",
+        "ten_mh": "Quản trị dịch vụ ăn uống",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Du lịch - Nhà hàng - Khách sạn"
+    },
+    {
+        "ma_mh": "DL112",
+        "ten_mh": "Thực hành nghiệp vụ khách sạn",
+        "so_tin_chi": 2,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Du lịch - Nhà hàng - Khách sạn"
+    },
+    {
+        "ma_mh": "NN101",
+        "ten_mh": "Ngữ âm thực hành",
+        "so_tin_chi": 2,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Ngôn ngữ"
+    },
+    {
+        "ma_mh": "NN102",
+        "ten_mh": "Ngữ pháp tiếng Anh",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Ngôn ngữ"
+    },
+    {
+        "ma_mh": "NN103",
+        "ten_mh": "Nghe tiếng Anh 1",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Ngôn ngữ"
+    },
+    {
+        "ma_mh": "NN104",
+        "ten_mh": "Nói tiếng Anh 1",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Ngôn ngữ"
+    },
+    {
+        "ma_mh": "NN105",
+        "ten_mh": "Đọc tiếng Anh 1",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Ngôn ngữ"
+    },
+    {
+        "ma_mh": "NN106",
+        "ten_mh": "Viết tiếng Anh 1",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Ngôn ngữ"
+    },
+    {
+        "ma_mh": "NN107",
+        "ten_mh": "Tiếng Anh thương mại",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Ngôn ngữ"
+    },
+    {
+        "ma_mh": "NN108",
+        "ten_mh": "Biên dịch căn bản",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Ngôn ngữ"
+    },
+    {
+        "ma_mh": "NN109",
+        "ten_mh": "Phiên dịch căn bản",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Ngôn ngữ"
+    },
+    {
+        "ma_mh": "NN110",
+        "ten_mh": "Giao tiếp liên văn hóa",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Ngôn ngữ"
+    },
+    {
+        "ma_mh": "NN111",
+        "ten_mh": "Tiếng Anh du lịch",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Ngôn ngữ"
+    },
+    {
+        "ma_mh": "NN112",
+        "ten_mh": "Tiếng Anh chuyên ngành công nghệ",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Ngôn ngữ"
+    },
+    {
+        "ma_mh": "LUAT101",
+        "ten_mh": "Pháp luật đại cương",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Luật kinh tế"
+    },
+    {
+        "ma_mh": "LUAT102",
+        "ten_mh": "Luật hiến pháp",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Luật kinh tế"
+    },
+    {
+        "ma_mh": "LUAT103",
+        "ten_mh": "Luật hành chính",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Luật kinh tế"
+    },
+    {
+        "ma_mh": "LUAT104",
+        "ten_mh": "Luật dân sự",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Luật kinh tế"
+    },
+    {
+        "ma_mh": "LUAT105",
+        "ten_mh": "Luật thương mại",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Luật kinh tế"
+    },
+    {
+        "ma_mh": "LUAT106",
+        "ten_mh": "Luật doanh nghiệp",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Luật kinh tế"
+    },
+    {
+        "ma_mh": "LUAT107",
+        "ten_mh": "Luật lao động",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Luật kinh tế"
+    },
+    {
+        "ma_mh": "LUAT108",
+        "ten_mh": "Luật sở hữu trí tuệ",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Luật kinh tế"
+    },
+    {
+        "ma_mh": "LUAT109",
+        "ten_mh": "Pháp luật hợp đồng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Luật kinh tế"
+    },
+    {
+        "ma_mh": "LUAT110",
+        "ten_mh": "Luật cạnh tranh",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Luật kinh tế"
+    },
+    {
+        "ma_mh": "LUAT111",
+        "ten_mh": "Pháp luật kinh doanh quốc tế",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Luật kinh tế"
+    },
+    {
+        "ma_mh": "LUAT112",
+        "ten_mh": "Thực hành pháp lý",
+        "so_tin_chi": 2,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Luật kinh tế"
+    },
+    {
+        "ma_mh": "KTMT101",
+        "ten_mh": "Cơ sở khoa học môi trường",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật môi trường"
+    },
+    {
+        "ma_mh": "KTMT102",
+        "ten_mh": "Hóa môi trường",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật môi trường"
+    },
+    {
+        "ma_mh": "KTMT103",
+        "ten_mh": "Vi sinh môi trường",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật môi trường"
+    },
+    {
+        "ma_mh": "KTMT104",
+        "ten_mh": "Quan trắc môi trường",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật môi trường"
+    },
+    {
+        "ma_mh": "KTMT105",
+        "ten_mh": "Xử lý nước cấp",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật môi trường"
+    },
+    {
+        "ma_mh": "KTMT106",
+        "ten_mh": "Xử lý nước thải",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật môi trường"
+    },
+    {
+        "ma_mh": "KTMT107",
+        "ten_mh": "Quản lý chất thải rắn",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật môi trường"
+    },
+    {
+        "ma_mh": "KTMT108",
+        "ten_mh": "Ô nhiễm không khí",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật môi trường"
+    },
+    {
+        "ma_mh": "KTMT109",
+        "ten_mh": "Đánh giá tác động môi trường",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật môi trường"
+    },
+    {
+        "ma_mh": "KTMT110",
+        "ten_mh": "An toàn lao động và môi trường",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật môi trường"
+    },
+    {
+        "ma_mh": "KTMT111",
+        "ten_mh": "Công nghệ môi trường",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật môi trường"
+    },
+    {
+        "ma_mh": "KTMT112",
+        "ten_mh": "Thực hành phân tích môi trường",
+        "so_tin_chi": 2,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật môi trường"
+    },
+    {
+        "ma_mh": "KTCN101",
+        "ten_mh": "Vẽ kỹ thuật",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật công nghiệp"
+    },
+    {
+        "ma_mh": "KTCN102",
+        "ten_mh": "Cơ học kỹ thuật",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật công nghiệp"
+    },
+    {
+        "ma_mh": "KTCN103",
+        "ten_mh": "Vật liệu kỹ thuật",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật công nghiệp"
+    },
+    {
+        "ma_mh": "KTCN104",
+        "ten_mh": "Cơ sở thiết kế máy",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật công nghiệp"
+    },
+    {
+        "ma_mh": "KTCN105",
+        "ten_mh": "Kỹ thuật đo",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật công nghiệp"
+    },
+    {
+        "ma_mh": "KTCN106",
+        "ten_mh": "Tự động hóa sản xuất",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật công nghiệp"
+    },
+    {
+        "ma_mh": "KTCN107",
+        "ten_mh": "Quản lý bảo trì công nghiệp",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật công nghiệp"
+    },
+    {
+        "ma_mh": "KTCN108",
+        "ten_mh": "Lean manufacturing",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật công nghiệp"
+    },
+    {
+        "ma_mh": "KTCN109",
+        "ten_mh": "Quản lý chất lượng công nghiệp",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật công nghiệp"
+    },
+    {
+        "ma_mh": "KTCN110",
+        "ten_mh": "Mô phỏng quy trình sản xuất",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Kỹ thuật công nghiệp"
+    },
+    {
+        "ma_mh": "CB101",
+        "ten_mh": "Triết học Mác - Lênin",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "CB102",
+        "ten_mh": "Kinh tế chính trị Mác - Lênin",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "CB103",
+        "ten_mh": "Chủ nghĩa xã hội khoa học",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "CB104",
+        "ten_mh": "Lịch sử Đảng Cộng sản Việt Nam",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "CB105",
+        "ten_mh": "Tư tưởng Hồ Chí Minh",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "CB107",
+        "ten_mh": "Toán cao cấp 1",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "CB108",
+        "ten_mh": "Toán cao cấp 2",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "CB109",
+        "ten_mh": "Xác suất thống kê",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "CB110",
+        "ten_mh": "Vật lý đại cương",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "CB112",
+        "ten_mh": "Tin học đại cương",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "CB113",
+        "ten_mh": "Kỹ năng giao tiếp",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "CB114",
+        "ten_mh": "Kỹ năng làm việc nhóm",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "CB115",
+        "ten_mh": "Phương pháp nghiên cứu khoa học",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "CB116",
+        "ten_mh": "Tiếng Anh cơ bản 1",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "CB117",
+        "ten_mh": "Giáo dục thể chất",
+        "so_tin_chi": 2,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "CB118",
+        "ten_mh": "Giáo dục quốc phòng và an ninh",
+        "so_tin_chi": 2,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Cơ bản và đại cương"
+    },
+    {
+        "ma_mh": "KN220",
+        "ten_mh": "Kỹ năng học đại học",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "KN221",
+        "ten_mh": "Tư duy phản biện",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "KN222",
+        "ten_mh": "Khởi nghiệp",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "DATA223",
+        "ten_mh": "Phân tích dữ liệu kinh doanh",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "DATA224",
+        "ten_mh": "Trực quan hóa dữ liệu",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "ECOM225",
+        "ten_mh": "Kinh doanh điện tử",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "PM226",
+        "ten_mh": "Quản lý dự án công nghệ",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "SEC227",
+        "ten_mh": "An ninh mạng căn bản",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "UX228",
+        "ten_mh": "Thiết kế trải nghiệm người dùng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "QA229",
+        "ten_mh": "Đảm bảo chất lượng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "ERP230",
+        "ten_mh": "Hệ thống hoạch định nguồn lực doanh nghiệp",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "SCM231",
+        "ten_mh": "Mô hình hóa chuỗi cung ứng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "QC232",
+        "ten_mh": "Kiểm soát chất lượng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "BIO233",
+        "ten_mh": "Công nghệ sinh học thực phẩm",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "PACK234",
+        "ten_mh": "Công nghệ bao gói",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "DES235",
+        "ten_mh": "Đồ họa ứng dụng",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "DES236",
+        "ten_mh": "Thiết kế giao diện số",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "FIN237",
+        "ten_mh": "Phân tích dữ liệu tài chính",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "HR238",
+        "ten_mh": "Tuyển dụng và phỏng vấn",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    },
+    {
+        "ma_mh": "COM239",
+        "ten_mh": "Giao tiếp kinh doanh",
+        "so_tin_chi": 3,
+        "tien_quyet": "",
+        "nganh_ap_dung": "Liên ngành"
+    }
+]

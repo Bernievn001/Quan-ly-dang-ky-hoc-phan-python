@@ -1,0 +1,10 @@
+{
+    "thoi_gian_bat_dau": "2020-01-01 00:00",
+    "thoi_gian_ket_thuc": "2030-12-31 23:59",
+    "so_dot_toi_da": 3,
+    "dot_dang_ky_hien_tai": 1,
+    "hoc_phi_moi_tin_chi": 700000,
+    "hoc_phi_ly_thuyet_moi_tin_chi": 700000,
+    "hoc_phi_thuc_hanh_moi_tin_chi": 1000000,
+    "si_so_toi_da_moi_lop": 60
+}

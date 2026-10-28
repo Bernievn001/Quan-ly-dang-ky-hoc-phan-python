@@ -1,0 +1,63 @@
+[
+    {
+        "ma_nd": "SV02",
+        "ma_lhp": "LHP01",
+        "ma_mh": "INT101",
+        "ten_mon": "Lập trình Python",
+        "so_tin_chi": 3,
+        "so_tien": 2100000,
+        "trang_thai": "Đã thanh toán",
+        "ngay_tao": "2026-10-15 18:13",
+        "phuong_thuc": "MoMo",
+        "ngay_thanh_toan": "2026-10-15 18:16"
+    },
+    {
+        "ma_nd": "SV02",
+        "ma_lhp": "LHP04",
+        "ma_mh": "INT102",
+        "ten_mon": "Cơ sở dữ liệu",
+        "so_tin_chi": 3,
+        "so_tien": 2100000,
+        "trang_thai": "Đã thanh toán",
+        "ngay_tao": "2026-10-15 18:13",
+        "phuong_thuc": "MoMo",
+        "ngay_thanh_toan": "2026-10-15 18:16"
+    },
+    {
+        "ma_nd": "SV02",
+        "ma_lhp": "LHP09",
+        "ma_mh": "INT101",
+        "ten_mon": "Lập trình Python",
+        "so_tin_chi": 3,
+        "so_tien": 2100000,
+        "trang_thai": "Đã thanh toán",
+        "ngay_tao": "2026-10-15 18:13",
+        "phuong_thuc": "MoMo",
+        "ngay_thanh_toan": "2026-10-15 18:16"
+    },
+    {
+        "ma_nd": "SV02",
+        "ma_lhp": "LHP06",
+        "ma_mh": "INT102",
+        "ten_mon": "Cơ sở dữ liệu",
+        "so_tin_chi": 3,
+        "so_tien": 3000000,
+        "trang_thai": "Đã thanh toán",
+        "ngay_tao": "2026-10-15 18:13",
+        "phuong_thuc": "MoMo",
+        "ngay_thanh_toan": "2026-10-15 18:16"
+    },
+    {
+        "ma_nd": "SV02",
+        "ma_lhp": "LHPCJ267",
+        "ma_mh": "CB112",
+        "ten_mon": "Tin học đại cương",
+        "so_tin_chi": 3,
+        "so_tien": 1650000,
+        "trang_thai": "Đã thanh toán",
+        "ngay_tao": "2026-10-28 08:40",
+        "phuong_thuc": "MoMo",
+        "ma_giao_dich": "GD261028084142",
+        "ngay_thanh_toan": "2026-10-28 08:41"
+    }
+]
